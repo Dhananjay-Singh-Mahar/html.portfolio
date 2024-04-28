@@ -1,0 +1,38 @@
+.center{
+   text-align: center;
+}
+
+
+.center1{
+    text-align: center;
+    font-weight: normal;
+    color: red;
+ }
+
+ .center3{
+    text-align: center;
+    color: darkred;
+    
+ }
+ 
+ .centeri{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 80px;
+   height: 160px;
+}
+
+.contact{
+   text-align: right ;   
+}
+
+
+
+*{
+   background-color: blanchedalmond ;
+}
+
+ 
+
+
